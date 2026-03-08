@@ -31,6 +31,8 @@ body {
   border-radius: 10px;
   border: none;
   font-size: 8vmin;
+  background-color: aliceblue;
+  color: black;
 }
 
 #reset {
